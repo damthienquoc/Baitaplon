@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1743961676 source:c:\users\quoc\downloads\kiemtra1\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
+1743961676 source:c:\users\quoc\downloads\kiemtra1\teseanh.cpp
+
+1744129678 source:c:\users\quoc\downloads\kiemtra1\main1.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_misc.h>
+	"defs.h"
+	"graphics.h"
+	"logic.h"
+	"music.h"
+
+1744122478 c:\users\quoc\downloads\kiemtra1\graphics.h
+	<SDL.h>
+	<math.h>
+	"defs.h"
+
+1744095458 c:\users\quoc\downloads\kiemtra1\defs.h
+
+1744129985 c:\users\quoc\downloads\kiemtra1\logic.h
+	<iostream>
+	<SDL_image.h>
+	<sdl_mixer.h>
+	"defs.h"
+	"graphics.h"
+	"music.h"
+
+1744126770 c:\users\quoc\downloads\kiemtra1\music.h
+	<SDL_mixer.h>
+
